@@ -6,7 +6,7 @@ design:
   columns: '2'
 
 # ... Put Your Section Options Here (title etc.) ...
-title: ""
+title: " "
 subtitle: ""
 links:
   - icon_pack: fab
@@ -20,3 +20,5 @@ links:
 
 ---
 You could also checkout a science blog I started as a part of SEDS Celestia, the astronomy and astrophysics club at BITS Goa - [The Wandering Star](https://bitsgcelestia.wordpress.com)
+
+If you prefer to read on Medium, I also share my experiences on [here](https://jainkhyati.medium.com).

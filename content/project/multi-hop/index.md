@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Example"
-summary: ""
+title: "Neurosymbolic Multi-hop Reasoning"
+summary: " "
 authors: []
 tags: []
 categories: []
-date: 2020-11-27T21:25:00+05:30
+date: 2020-11-28T19:18:09+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+To be updated soon!
