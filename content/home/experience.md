@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Allahabad, India"
   date_start = "2018-05-01"
   date_end = "2018-07-01"
-  description = ""
+  description = "Studied numerical measures of entanglement and worked on optimization of witness operator."
 
 [[experience]]
   title = "Summer Intern"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Chennai, India"
   date_start = "2019-05-01"
   date_end = "2019-07-31"
-  description = ""
+  description = "Designed and Simulated efficient quantum circuits for topological quantum walks."
 
   [[experience]]
     title = "Software Engineering Intern"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
     location = "Bangalore, India"
     date_start = "2020-05-01"
     date_end = "2020-07-31"
-    description = ""
+    description = "Designed a multi-modal information extraction pipeline that fetches data, filters relevant information and converts into tabular form."
 
     [[experience]]
       title = "Research Intern"
@@ -50,7 +50,15 @@ date_format = "Jan 2006"
       company_url = ""
       location = "Bangalore, India"
       date_start = "2020-09-01"
-      date_end = ""
-      description = ""
+      date_end = "2021-01-07"
+      description = "Built a logical Natural Language Inference dataset with verifiable proof steps using a neuro-symbolic approach."
 
+    [[experience]]
+      title = "International Program Associate"
+      company = "RIKEN"
+      company_url = ""
+      location = "Bangalore, India"
+      date_start = "2021-02-01"
+      date_end = ""
+      description = "Studying the noise robustness of analog optimization methods for NP-Hard problems."
 +++

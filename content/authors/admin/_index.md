@@ -14,12 +14,13 @@ organizations:
   url: "https://bits-pilani.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a final year CS + Physics undergrad at BITS Pilani, currently interning at Microsoft Research.
+bio: I am a final year CS + Physics undergrad at BITS Pilani, currently interning at RIKEN.
 
 interests:
-- Software development
 - Artificial Intelligence
-- Machine learning
+- Product development
+- Emerging Technologies
+- Data Science
 
 education:
   courses:
@@ -43,7 +44,7 @@ social:
   link: https://github.com/jainkhyati
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:f20160471@goa.bits-pilani.ac.in'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:khyatijain98@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jnkhyati
@@ -73,6 +74,10 @@ highlight_name: true
 #- Visitors
 ---
 
-I am Khyati Jain, a Computer Science and Physics undergrad at BITS Pilani (Goa!). I am excited about learning and developing tech. I am driven to contribute to projects that would be useful and impact as many people as possible. I am currently interning at Microsoft Research, where I am working on multi-hop reasoning with explainable hops. This would help build more reliable and interpretable systems, critical in real-world settings. Recently, I was a summer intern at Google where I worked on multi-modal information extraction. I have also been interested in quantum computing and am looking forward to explore it further.
+I am a final year Computer Science and Physics undergrad at BITS Pilani. I will be joining the engineering team at [Sundial](https://sundial.so/).
 
-I am actively looking for full time opportunities in software development starting from Aug '21. Please [reach out to me](mailto:f20160471@goa.bits-pilani.ac.in) if you know of a suitable opportunity!
+I am excited about the field of Artificial Intelligence and Product Development. I have also worked in the intersection of Physics and Computer Science - Quantum Computing, Non Linear Dynamics and Chaos. I'm currently working with [Dr. Franco Nori's](http://scholar.google.co.in/citations?user=SRUYLREAAAAJ&hl=en) Theoretical Quantum Physics Lab on combinatorial optimization problems with analog computing. This summer, I interned at Google where I worked on multi-modal information extraction. I was also recently at Microsoft Research, where I developed a multi-hop logical NLI dataset with proof steps. We believe this would help build more reliable and interpretable systems, critical in real-world settings.
+
+Please [reach out to me](mailto:f20160471@goa.bits-pilani.ac.in) if you'd like to chat with me!
+
+<!-- {{< figure src="/media/logos-banner.png" title="" width="60%">}} -->
