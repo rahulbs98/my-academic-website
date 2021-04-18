@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "dwave.pdf"
 url_slides: ""
 url_video: ""
 
@@ -41,4 +41,4 @@ slides: ""
 ---
 * Verified the use of DWAVE to achieve a speedup in Machine Learning and combinatorial optimization problems.
 * Worked on optimization of various problems - Feature Selection, Quantum Boosting, Restricted Boltzmann Machine, Map Coloring, Satisfiability problem and others using quantum annealing on NASA's DWAVE computer.
-* Slides to be updated soon!
+* Please refer the pdf for some of my notes.

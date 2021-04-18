@@ -41,4 +41,5 @@ url_video: ""
 slides: ""
 ---
 * Building a logical Natural Language Inference dataset with verifiable proof steps using neuro-symbolic approach.
+* We believe this would help build more reliable and interpretable systems, critical in real-world settings.
 * Dataset to be released soon.

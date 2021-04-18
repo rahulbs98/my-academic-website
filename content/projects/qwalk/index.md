@@ -39,4 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Details to be updated soon!
+* Designed efficient quantum circuits for discrete time topological quantum walks for near term quantum computers.
+* Details to be updated soon!

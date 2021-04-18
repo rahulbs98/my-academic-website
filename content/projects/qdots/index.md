@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "qdots.pdf"
 url_slides: ""
 url_video: ""
 
@@ -39,4 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Please refer the pdf for the experimentation details.
+* Synthesized fluorescent quantum Dots
+* Please refer the pdf for the experimentation details.

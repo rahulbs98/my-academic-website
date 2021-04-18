@@ -74,9 +74,9 @@ highlight_name: true
 #- Visitors
 ---
 
-I am a final year Computer Science and Physics undergrad at BITS Pilani. I will be joining the engineering team at [Sundial](https://sundial.so/).
+I am a final year Computer Science and Physics undergrad at BITS Pilani. Upon graduation, I will be joining the engineering team at [Sundial](https://inspirit.work/), an early stage startup working to productise data science as it aligns perfectly with my desire to understand the big picture of the product development cycle.
 
-I am excited about the field of Artificial Intelligence and Product Development. I have also worked in the intersection of Physics and Computer Science - Quantum Computing, Non Linear Dynamics and Chaos. I'm currently working with [Dr. Franco Nori's](http://scholar.google.co.in/citations?user=SRUYLREAAAAJ&hl=en) Theoretical Quantum Physics Lab on combinatorial optimization problems with analog computing. This summer, I interned at Google where I worked on multi-modal information extraction. I was also recently at Microsoft Research, where I developed a multi-hop logical NLI dataset with proof steps. We believe this would help build more reliable and interpretable systems, critical in real-world settings.
+I have been fortunate to have various opportunities to explore in my undergrad. With my internships at [Google](), where I worked on multimodal-information extraction, and at [Microsoft Research]() where I worked on building a logical NLI dataset, I have developed a keen interest in the field of Artificial Intelligence. I am particularly interested in the aspects of explainability, interpretability and ethics. I am also excited about other emerging technologies like quantum computing and analog computing. I'm currently writing my thesis with [Dr. Franco Nori's](http://scholar.google.co.in/citations?user=SRUYLREAAAAJ&hl=en) Lab at RIKEN.
 
 Please [reach out to me](mailto:f20160471@goa.bits-pilani.ac.in) if you'd like to chat with me!
 
